@@ -21,7 +21,7 @@ Experimental apps are available to download from [this link](https://drive.googl
   * Appium
   * Tesseract
   
-#### Step One: ADB Install
+**Step One: ADB Install**
 1. Get the Latest SDK Platform-tools From Android Studio's [SDK Manager](https://developer.android.com/studio/intro/update#sdk-manager) or From the [Sdkmanager](https://developer.android.com/studio/command-line/sdkmanager) Command-line Tool. Once you’ve downloaded the Platform Tools package, extract the contents of the .zip file to a folder (like “C:\Android\platform-tools”).
 
 2. Configure the PATH Variable. The PATH variable is a master list of where to look for command line tools. For details, please refer to [this link](https://lifehacker.com/the-easiest-way-to-install-androids-adb-and-fastboot-to-1586992378).
@@ -31,16 +31,16 @@ Experimental apps are available to download from [this link](https://drive.googl
 4. Test ADB (if Needed).
 The third and fourth steps can refer to [this link](https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/).
 
-#### Step Two: Appium Install
+**Step Two: Appium Install**
 &nbsp;&nbsp;&nbsp;&nbsp;The installation process can refer to [this link](http://appium.io/docs/en/2.0/quickstart/install/).
 
-#### Step Three: Dependency Library Installation  
+**Step Three: Dependency Library Installation**
 &nbsp;&nbsp;&nbsp;&nbsp; Run the following command to install the Python libraries:
    ```sh
    pip install -r requirements.txt
    ```
   
-#### Step Four: Setup App
+**Step Four: Setup App**
 &nbsp;&nbsp;&nbsp;&nbsp;Install the app on the mobile device
   ```sh
   adb install XXX.apk
