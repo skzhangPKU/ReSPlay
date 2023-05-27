@@ -45,6 +45,7 @@ The third and fourth steps can refer to [this link](https://www.howtogeek.com/12
   ```sh
   adb install XXX.apk
   ```
+ 
 ## Record (UIRecorder)
 ---
 The recoding phase aims to synchronously extract critical information from input events to provide support for sebsequent analysis. Specifically, ReSPlay records GUI screenshots, layout files, and widget screenshots. 
