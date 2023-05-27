@@ -5,7 +5,7 @@ A cross-platform record-and-replay tool for mobile apps
 All the evaluation artifacts are available here, which include tools, apps we used, and instructions about how to run the tool on mobile phones. Details can be found in our paper. It is a useful record-and-replay tool, which leverages a most robust visual feature, GUI sequences, to guide replaying more accurately.
 
 #### Framework:
-![Framework](https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/oview.png)
+![Framework](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/oview.png)
 ---
 
 ## All Experimental Apps
@@ -73,13 +73,13 @@ The directories named with the package name contain five folders/scenarios, each
 
 
 #### Figure 1:
-![figure2](https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/widget_screenshots.jpg)
+![figure2](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/widget_screenshots.jpg)
 
 #### Figure 2:
-![figure3](https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/layout_files.jpg)
+![figure3](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/layout_files.jpg)
 
 #### Figure 3:
-![figure4](https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/GUI_screenshots.jpg)
+![figure4](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/GUI_screenshots.jpg)
 
 Specifically, the scenarios in our experiments are available [here](https://drive.google.com/file/d/1d785NGGPRIJ1Au82KZk121h2PiB8p5Se/view?usp=sharing).
 
@@ -103,9 +103,9 @@ Specifically, the scenarios in our experiments are available [here](https://driv
 
 
 <div align="center">
-	<img src="https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/appium_server_start1.png" width="250">
+	<img src="https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/appium_server_start1.png" width="250">
  
- <img src="https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/appium_server_start2.png" width="250">
+ <img src="https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/appium_server_start2.png" width="250">
 </div>
 
 3. Run the training script, which will output an offline trained model. The trained model will be used to search for potential event traces and replay them on the target device.
@@ -115,12 +115,12 @@ python train.py
 
 &nbsp;&nbsp;&nbsp;&nbsp;The Appium server interacts with the mobile device successfully when it receives a response with status 200 (see the Figure below).
 <div align="center">
-	<img src="https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/train_appium_server.png" width="250">
+	<img src="https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/train_appium_server.png" width="250">
 </div>
 
 &nbsp;&nbsp;&nbsp;&nbsp;Our tool will output the contents like the Figure below when it runs successfully.
 <div align="center">
-<img src="https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/ReSPlay_train.png" width="250">
+<img src="https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/ReSPlay_train.png" width="250">
 </div>
 
 #### Step Three: Start the replaying phase.
@@ -133,7 +133,7 @@ python inference.py
 &nbsp;&nbsp;&nbsp;&nbsp;During this phase, ReSPlay will automatically record the GUI screenshots on the replaying device, which facilitates a visual check on whether a replay is correct.
 The result is shown in the Figure below.
 
-<img src="https://github.com/skzhangPKU/ReSPlay/blob/main/Figures/replay_example.png" width="600">
+<img src="https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/replay_example.png" width="600">
 
 ## Plan for Improvement
 ---
