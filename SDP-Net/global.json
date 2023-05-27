@@ -1,0 +1,6 @@
+{"com.booking": "com.booking.startup.HomeActivity", "com.gotokeep.keep.intl": "com.gotokeep.keep.main.activity.MainActivity",
+  "com.yinxiang": "com.yinxiang.main.activity.MainActivity", "com.amazon.kindlefc": ".KfcUpgradePage",
+  "com.adguard.android": ".ui.SplashActivity", "com.yeungeek.monkeyandroid": ".ui.LauncherActivity",
+  "org.openhab.habdroid.beta": "org.openhab.habdroid.ui.MainActivity", "org.wikipedia.alpha": "org.wikipedia.main.MainActivity",
+  "com.amazon.mShop.android.shopping": "com.amazon.mShop.splashscreen.StartupActivity", "com.apple.android.music": "com.apple.android.music.onboarding.activities.SplashActivity",
+  "com.here.app.wego": "com.here.app.wego.MainActivity", "com.tribab.tricount.android": "com.tribab.tricount.android.view.activity.MainActivity"}
