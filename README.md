@@ -45,6 +45,7 @@ The third and fourth steps can refer to [this link](https://www.howtogeek.com/12
 **Step Four: Setup App**
 
 &nbsp;&nbsp;&nbsp;&nbsp; Install the app on the mobile device:
+
    ```sh
    adb install XXX.apk
    ```
