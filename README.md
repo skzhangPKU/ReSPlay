@@ -32,7 +32,7 @@ Experimental apps are available to download from [this link](https://drive.googl
 The third and fourth steps can refer to [this link](https://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/).
 
 #### Step Two: Appium Install
-&nbsp;&nbsp;&nbsp;&nbsp;The installation process can refer to [this link](https://appium.io/docs/en/about-appium/getting-started/?lang=en).
+&nbsp;&nbsp;&nbsp;&nbsp;The installation process can refer to [this link](http://appium.io/docs/en/2.0/quickstart/install/).
 
 #### Step Three: Dependency Library Installation  
 &nbsp;&nbsp;&nbsp;&nbsp; Run `pip install -r requirements.txt` to install the Python libraries:
