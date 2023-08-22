@@ -49,10 +49,6 @@ The third and fourth steps can refer to [this link](https://www.howtogeek.com/12
    ```sh
    adb install XXX.apk
    ```
-
- **Step Five: Pretrained Models**
- 
- &nbsp;&nbsp;&nbsp;&nbsp; Our pretrained models are optional to download from [this link](https://drive.google.com/file/d/1kuqT7qRvBzn4kCiiJMlaSMSLfwIq3XQl/view?usp=sharing).
  
 
 ## Record (UIRecorder)
