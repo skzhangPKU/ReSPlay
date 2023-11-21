@@ -90,7 +90,6 @@ The directories named with the package name contain five folders/scenarios, each
 #### Figure 3:
 ![figure4](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/GUI_screenshots.jpg)
 
-Specifically, the scenarios in our experiments are available [here](https://drive.google.com/file/d/1d785NGGPRIJ1Au82KZk121h2PiB8p5Se/view?usp=sharing).
 
 ## Replay (SDP-Net)
 ---
