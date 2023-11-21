@@ -8,10 +8,6 @@ All the evaluation artifacts are available here, which include tools, apps we us
 ![Framework](https://github.com/skzhangPKU/ReSPlay/blob/master/Figures/overview.png)
 ---
 
-## All Experimental Apps
----
-The selected apps are Keep, Booking, Amazon Shopping, Evernote, App Music, Kindle, AdGuard, HERE WeGo, Tricount, Wikipedia, Monkey, and openHAB. The categories they belong to include health & fitness, travel, shopping, productivity, music, books, personalization, tools, finance, news, development, and lifestyle.
-
 
 ## Environment settings
 ---
